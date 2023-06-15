@@ -22,9 +22,6 @@ module.exports = {
   settings: {
     "import/resolver": {
       alias: {
-        map: [
-          ["@", "./src"], // Adjust the alias mapping based on your project structure
-        ],
         extensions: [".js", ".jsx", ".ts", ".tsx"],
       },
     },
