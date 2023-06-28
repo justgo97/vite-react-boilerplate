@@ -2,11 +2,11 @@
 
 ## What's included?
 
-[x] Typescript
-[x] Sass
-[x] Bootstrap
-[x] Eslint
-[x] Minor config changes to match CRA style ( port, commands, build directory... etc)
+- [x] Typescript
+- [x] Sass
+- [x] Bootstrap
+- [x] Eslint
+- [x] Minor config changes to match CRA style ( port, commands, build directory... etc)
 
 ## Getting started
 
