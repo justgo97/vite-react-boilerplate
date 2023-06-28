@@ -4,6 +4,7 @@ import "./App.scss";
 
 // Import all of Bootstrap's JS
 import "bootstrap";
+
 import Navbar from "./components/Navbar";
 
 function App() {

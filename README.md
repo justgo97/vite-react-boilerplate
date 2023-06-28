@@ -1,2 +1,13 @@
 # vite-react-boilerplate
-vite react boilerplate, includes typescript, sass, bootstrap, eslint import
+
+## What's included?
+
+[x] Typescript
+[x] Sass
+[x] Bootstrap
+[x] Eslint
+[x] Minor config changes to match CRA style ( port, commands, build directory... etc)
+
+## Getting started
+
+`npm run start`
