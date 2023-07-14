@@ -12,3 +12,11 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
+body {
+  height: 100vh;
+}
+
+#root {
+  height: 100%;
+}
